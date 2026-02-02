@@ -1,7 +1,9 @@
 AI 笔记助手 (AI Note Tool)
+
 一个基于 Vue 3 + TypeScript 构建的富文本笔记应用，内置 AI 驱动的内容优化功能。
 
 ✨ 核心特性
+
 🚀 沉浸式编辑体验：采用基于 wangEditor 的“纸张感”布局，支持加粗、标题、列表、代码块等多种富文本操作。
 
 🤖 智能 AI 交互：
@@ -17,6 +19,7 @@ AI 笔记助手 (AI Note Tool)
 📁 笔记管理：左侧侧边栏支持笔记的新建、切换、重命名以及删除操作。
 
 🛠️ 技术栈
+
 前端框架: Vue 3 (Composition API)
 
 状态管理: Pinia
@@ -30,13 +33,21 @@ UI 组件库: Element Plus
 项目管理: TypeScript + Vite
 
 📦 项目运行
+
 1.克隆项目
+
 git clone https://github.com/Sunflowerj/AI_tool.git
+
 2.安装依赖
+
 npm install
+
 3.本地开发
+
 npm run dev
+
 4.构建部署
+
 npm run build
 
 📅 后续计划
