@@ -18,6 +18,7 @@
 <script lang="ts" setup>
     import {useNoteStore} from '@/stores/note';
     import { useEditorStore } from '@/stores/editor';
+    import { computed } from 'vue';
     
     const notesStore = useNoteStore();
     const editorStore = useEditorStore();
